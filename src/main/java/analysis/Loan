@@ -1,0 +1,6 @@
+package analysis;
+
+public class Loan{
+
+    public int field1;
+}
